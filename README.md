@@ -1,8 +1,7 @@
 <h1 align="center">Umar Farooq👨‍💻</h1>
 <h3 align="center">
   Software Engineer,
-  Artificail Intelligence,
-  Computer Vision
+  AI, Agentic AI, NLP, LLMs, RAG, Computer Vision
   </h3>
 
 ---
