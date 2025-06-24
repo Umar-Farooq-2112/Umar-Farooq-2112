@@ -6,7 +6,7 @@
 
 ---
 
-- 👨‍💻 Portfolio: (https://umar-farooq-2112.github.io/portfolio/)
+- 👨‍💻 Portfolio: (https://umarfarooq.tech/)
 
 - 📫 Reach me: [umarfarooq211203@gmail.com](mailto:umarfarooq211203@gmail.com)
 ---
