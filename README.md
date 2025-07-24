@@ -11,7 +11,7 @@
 
 ### 🔍 About Me
 
-I'm a dedicated **Backend Developer** and **Applied AI Researcher** building intelligent systems and solving real-world problems using modern AI techniques.
+I'm a dedicated **Backend Developer** and **AI Engineer** building intelligent systems and solving real-world problems using modern AI techniques.
 
 - 🧠 Researching & working with **LLMs**, **NLP**, **RAG**, and **Agentic AI**
 - 🧪 Experimenting with **transformer architectures**, fine-tuning & alignment
