@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Umar Farooq</h1>
 
-<h3 align="center">Backend Engineer | AI Systems Builder | LLMs, NLP & RAG | Computer Vision</h3>
+<h3 align="center">  AI Engineer | Backend Developer | LLMs, NLP & RAG | Computer Vision</h3>
 
 <p align="center">
   <a href="https://umarfarooq.tech" target="_blank"><strong>🌐 Portfolio</strong></a> • 
