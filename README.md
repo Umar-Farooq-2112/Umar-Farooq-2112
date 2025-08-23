@@ -90,9 +90,6 @@ If you're looking for a teammate to **build**, **research**, or **scale** someth
   <a href="https://www.instagram.com/umarfarooq2112" target="blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/923355022002" target="blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
   <a href="mailto:umarfarooq211203@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
